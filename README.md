@@ -1,2 +1,3 @@
-I am trying to build a simple note taking application that will allow a user to keep track of a number of tasks.
-If you are reading this, you are on my git repo page and then have access to my heroku deployment link. No need to provide it here. 😝
+# Note-Taking-App-Refactor
+  My task is to refactor a note-taking app that uses JavaScripts Fetch API and to make it compatible with Express.
+  I was under the impression that the front-end was done for us, but it seems like some of the CSS is off. 
